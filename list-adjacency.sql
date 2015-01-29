@@ -156,7 +156,7 @@ CALL UpTreeTraversal(291);
 # However, abstracting this to a programatically created query for an
 # arbitrary number of levels could give you some flexibility.
 # There will be performance impacts as the joins continue to add upn
-SELECT level1.id As id_1, level2.id as id_2
+# TODO: finish this SELECT level1.id As id_1, level2.id as id_2
 
 
 
